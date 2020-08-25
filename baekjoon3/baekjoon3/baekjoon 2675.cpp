@@ -17,6 +17,7 @@ int main()
 			for (int k = 0; k < rep; k++)
 				cout << s[j];
 		}
+		cout << endl;
 	}
 
 	return 0;
